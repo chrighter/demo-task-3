@@ -1,0 +1,41 @@
+
+.gallery 
+{
+    width: 80%;
+    margin: 30px auto;
+    overflow: hidden;
+}
+
+.pic 
+{
+    display: inline-block;
+}
+
+h1 
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 23pt;
+    text-align: center;
+    color: #e100ca;
+}
+
+h4 
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 18pt;
+    color: #4664fc;
+    text-align: center;
+}
+
+p 
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+    color: #4664fc;
+    text-align: center;
+}
+
+img 
+{
+    border: 1px solid #e100ca;
+}
